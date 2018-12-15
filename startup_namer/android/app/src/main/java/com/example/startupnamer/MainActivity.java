@@ -1,4 +1,4 @@
-package com.example.myapp;
+package com.example.startupnamer;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
